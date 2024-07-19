@@ -1,0 +1,8 @@
+body{
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+.container {
+    max-width: 700px;
+    margin: 0 auto;
+}
